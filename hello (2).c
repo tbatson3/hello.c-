@@ -1,6 +1,6 @@
 /**
  * Author: Trevor Batson
- *         
+ *
  * Date: 2020/08/17
  *
  * A simple hello world program in C
@@ -12,6 +12,6 @@
 int main(int argc, char **argv) {
 
   printf("Trevor Batson\n");
-
+printf("computer sciences\n")
   return 0;
 }
